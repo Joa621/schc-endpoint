@@ -1,0 +1,44 @@
+{
+  "deduplicationId": "d7a3c1e2-4f5b-4a8d-9c6e-1b2f3a4e5d6c",
+  "time": "2024-06-01T12:00:00.000Z",
+  "deviceInfo": {
+    "tenantId": "52f14cd4-c6f1-4fea-bb4f-9b9b1b2b3b4b",
+    "tenantName": "ChirpStack",
+    "applicationId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "applicationName": "underwater-sensor-app",
+    "deviceProfileId": "dp-aaa-bbb-ccc",
+    "deviceProfileName": "sensor-profile",
+    "deviceName": "acoustic-sensor-1",
+    "devEui": "0102030405060708",
+    "tags": {}
+  },
+  "devAddr": "01234567",
+  "adr": false,
+  "dr": 5,
+  "fCnt": 42,
+  "fPort": 10,
+  "confirmed": false,
+  "data": "lmAAAAAAIhH/IAENuAAAAAEAAAAAAAAAASABDbgAAAACAAAAAAAAAAISNFZ4ACIAAFACMDG2c2Vuc29yBGRhdGH/AADIQQAA8EBQ",
+  "rxInfo": [
+    {
+      "gatewayId": "0016c001ff1d4f45",
+      "uplinkId": 12345,
+      "rssi": -85,
+      "snr": 7.5,
+      "location": {
+        "latitude": 52.3676,
+        "longitude": 4.9041
+      }
+    }
+  ],
+  "txInfo": {
+    "frequency": 868100000,
+    "modulation": {
+      "lora": {
+        "bandwidth": 125000,
+        "spreadingFactor": 7,
+        "codeRate": "CR_4_5"
+      }
+    }
+  }
+}

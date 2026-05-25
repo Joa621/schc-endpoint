@@ -1,0 +1,1 @@
+. "/home/joako/Downloads/Underwater Communication Project/Full Underwater Communication Project/schc-endpoint/build/deactivate_conanrunenv-release-x86_64.sh"

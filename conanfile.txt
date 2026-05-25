@@ -1,0 +1,7 @@
+[requires]
+schc-full-sdk/1.0.0-beta@dochkas/stable
+zlog/1.2.18@dochkas/stable
+
+[generators]
+CMakeDeps
+CMakeToolchain

@@ -1,0 +1,7 @@
+/home/joako/Downloads/Underwater Communication Project/Full Underwater Communication Project/schc-endpoint/build/CMakeFiles/edit_cache.dir
+/home/joako/Downloads/Underwater Communication Project/Full Underwater Communication Project/schc-endpoint/build/CMakeFiles/rebuild_cache.dir
+/home/joako/Downloads/Underwater Communication Project/Full Underwater Communication Project/schc-endpoint/build/src/CMakeFiles/logger-lib.dir
+/home/joako/Downloads/Underwater Communication Project/Full Underwater Communication Project/schc-endpoint/build/src/CMakeFiles/schc-service-lib.dir
+/home/joako/Downloads/Underwater Communication Project/Full Underwater Communication Project/schc-endpoint/build/src/CMakeFiles/schc-decompressor.dir
+/home/joako/Downloads/Underwater Communication Project/Full Underwater Communication Project/schc-endpoint/build/src/CMakeFiles/edit_cache.dir
+/home/joako/Downloads/Underwater Communication Project/Full Underwater Communication Project/schc-endpoint/build/src/CMakeFiles/rebuild_cache.dir
